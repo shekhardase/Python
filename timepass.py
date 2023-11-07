@@ -1,0 +1,6 @@
+print("type any sentence")
+n1=input( )
+print("10 times of that sentence is", 10 * ( n1 ) )
+print("type any other sentence")
+n2=input( )
+print("now combination of both sentences is", n1 + n2)
